@@ -1,0 +1,11 @@
+.heder {
+  font-size: 20px;
+  font-weight: 900;
+}
+.box {
+  background-color: #333333;
+}
+.box span {
+  font-size: 20px;
+  font-weight: 900;
+}

@@ -1,0 +1,145 @@
+.block-1{
+    background-color: #141024;   
+    height: 1080px;color: white;
+}
+    
+.box1 strong{
+    font-weight: 900;
+    font-size: 20px;
+
+}
+
+.box1{
+    
+    padding: 30px 0;
+}
+
+.text{
+    margin-top: 10px;
+}
+.nomer{
+    font-weight: 900;
+    letter-spacing:normal;
+    font-size: 20px;
+}
+
+.foto{
+    margin-top: 69px;
+    
+}
+.fotom{
+    position: absolute;
+    z-index: 1;
+
+}
+
+.foton{
+    z-index: 0;
+    margin-top: 80px;
+    margin-left: 480px;
+}
+.prev{
+    z-index: 0;
+    position: relative;
+    top: -255px;
+    left: -55px;
+}
+.prev h1{
+    font-size: 70px;
+    font-weight: 900;
+    text-align: center;
+}
+
+.one{
+    text-align: center;
+}
+
+.chislo{
+    display: block; 
+}
+
+    
+
+.knopka{
+    position:absolute;
+    top: 420px;
+    line-height: 20px;
+}
+.knop button{
+    height: 75px;
+    margin-top: 25px;
+}
+
+.block-2{
+    padding-top: 100px;
+}
+
+.priloj strong{
+    font-weight: 900;
+}
+
+.priloj p{
+    font-size: 20px;
+}
+
+.chisla{
+    padding: 150px 0 135px 0;
+    margin-left: 30px ;
+}
+.chis strong{
+    color: #d52027;
+    font-weight: 900;
+    font-size: 70px;
+}
+
+.chis p{
+    font-size: 16px;
+}
+
+.block-3{
+    background-color: #f9f9f9;
+    height: 485px;
+}
+
+.give h2{    margin-top: 120px;
+    font-size: 50px;
+    font-weight: 900;
+}
+
+.stroki p{
+    text-align: left;
+    
+}
+.strok strong{
+    font-weight: 900;
+    font-size: 24px;
+}
+
+.strok{
+    margin-top: 95px;
+
+}
+.stroki{
+    margin-left: 100px;
+}
+
+.block-4{
+    margin-top: 145px;
+    line-height: 0.9;
+    overflow-x: scroll;
+    margin-bottom: 400px;
+}
+
+.list h3{
+    font-size: 50px;
+    font-weight: 900;
+}
+
+.list a{
+    color: red;
+}
+
+.list{
+    background-color: #d52027;
+
+}
